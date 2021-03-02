@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dahlan Firdaus</string>
+    <string name="temail">Email</string>
+    <string name="tpassword">Password</string>
+    <string name="btnlogin">LOGIN</string>
+    <color name="abu_abu">#9ca3ce</color>
+</resources>
