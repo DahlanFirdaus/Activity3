@@ -3,5 +3,9 @@
     <string name="temail">Email</string>
     <string name="tpassword">Password</string>
     <string name="btnlogin">LOGIN</string>
+    <string name="tData">LOGIN</string>
+    <string name="txEmail">Email</string>
+    <string name="txpassword">Password</string>
+    <string name="label12">LOGIN</string>
     <color name="abu_abu">#9ca3ce</color>
 </resources>
