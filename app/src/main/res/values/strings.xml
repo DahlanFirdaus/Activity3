@@ -7,5 +7,12 @@
     <string name="txEmail">Email</string>
     <string name="txpassword">Password</string>
     <string name="label12">LOGIN</string>
+    <string name="mDaftar">Pendaftaran</string>
+    <string name="idaftar">Daftar</string>
+    <string name="enama">Masukkan Nama</string>
+    <string name="eemail">Masukkan Email</string>
+    <string name="epass">Masukkan Password</string>
+    <string name="erepass">Masukkan Password Kembali</string>
+    <string name="ealamat">Masukkan Alamat</string>
     <color name="abu_abu">#9ca3ce</color>
 </resources>

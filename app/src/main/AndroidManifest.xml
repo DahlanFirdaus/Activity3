@@ -9,6 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.DahlanFirdaus">
+        <activity android:name=".register"
+            android:parentActivityName=".MainActivity" />
         <activity android:name=".activity2"
             android:parentActivityName=".MainActivity"
             android:label="@string/label12"></activity>
